@@ -1,0 +1,7 @@
+enchantment.gtravel.global_traveler=Global Traveler
+
+msg.gtravel.unknown_inventory=Inventory
+msg.gtravel.bound_msg=Bound to %s in %s [x=%d, y=%d, z=%d]
+
+msg.gtravel.enabled_msg=Global Traveler re-enabled.
+msg.gtravel.disabled_msg=Global Traveler disabled.
